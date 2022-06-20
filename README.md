@@ -1,5 +1,4 @@
-# Title: Examining The Risk Factors of Liver Disease: A Machine
-Learning Approach
+# Title: Examining The Risk Factors of Liver Disease: A Machine Learning Approach
 
 
 <!-- # Available in online
